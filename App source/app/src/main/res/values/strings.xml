@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">물 한잔 해요</string>
+    <string name="db">WaterLife</string>
+</resources>
